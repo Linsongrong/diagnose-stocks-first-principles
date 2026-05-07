@@ -1,0 +1,4 @@
+interface:
+  display_name: "First-Principles Stock Diagnosis"
+  short_description: "Diagnose stocks with cash flow, moat, scenarios, and risk."
+  default_prompt: "Use $diagnose-stocks-first-principles to investigate a public stock from first principles with current sources and a clear risk view."
